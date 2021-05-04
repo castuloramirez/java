@@ -1,6 +1,6 @@
 # Openjdk images
 
-Supported tags and respective Dockerfile links
+Supported tags and respective Dockerfile links. For testing the Open JDKs vulnerabilities.
 
 - Java 15
     - `15-jdk` ([jdk/15/15/Dockerfile](https://github.com/vulhub/java/blob/master/jdk/15/15/Dockerfile))
