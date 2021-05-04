@@ -1,4 +1,4 @@
-# Openjdk images
+# Openjdk Images
 
 Supported tags and respective Dockerfile links. For testing the Open JDKs vulnerabilities.
 
